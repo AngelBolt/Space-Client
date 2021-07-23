@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Made by §1Xatalyst\n§4!!!will require a restart!!!§r",
+    "name": "§eBad§blion §dBandana",
+    "uuid": "1f99eb0c-9e4a-4137-bbe8-7162a452948c",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 16, 0]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "resources",
+      "uuid": "37f924d6-5d93-4284-bf48-06baa35dc0aa",
+      "version": [1, 0, 0]
+     }
+  ]
+}
